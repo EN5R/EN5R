@@ -9,7 +9,7 @@
 
 - **🌱** as a dedicated **learner in the CYBER-ATTACK landscape,** i’m soaking up every bit of insight i can find.
 
-- 📝 you can follow my journey as i prepare to drop my thoughts and findings regularly over on [https://t.me/+K3G9CJmZfShmOGI0](https://t.me/+K3G9CJmZfShmOGI0). **your engagement is my fuel!**
+- 📝 you can follow my journey as i prepare to drop my thoughts and findings regularly over on [https://t.me/+nYkVXh79tSMyZGU0](https://t.me/+nYkVXh79tSMyZGU0). **your engagement is my fuel!**
 
 - 📄 my experience may be a seedling, but it’s growing rapidly. **I’M COMMITTED TO MASTERING MY CRAFT AS A BUG BOUNTY HUNTER AND PENETRATION TESTER, HONING IN ON ATTACKING ENVIRONMENTS AND DISCOVERING THE UNSEEN.**
 
