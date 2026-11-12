@@ -12,6 +12,5 @@ Independent security researcher working on web application security. I build com
 
 **Project:** Project Lead of YETKİN, a TÜBİTAK 2209-A funded disaster-response volunteer integration platform running in production: https://yetkin.ensaar.codes
 
-**Verification:** Identity-verified participant in Anthropic's Cyber Verification Program (Defense Access).
 
 **Contact:** ensarresearcher@gmail.com
