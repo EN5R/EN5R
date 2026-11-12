@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ensari Ensarioğlu
 
-<!--
-**EN5R/EN5R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent security researcher working on web application security. I build complete, end-to-end exploit chains from individually minor findings and prove every claim with reproducible output before reporting it.
 
-Here are some ideas to get you started:
+**Focus:** authentication and authorisation logic, OAuth/OIDC flows, access control failures, SSRF, API security, business logic flaws.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Elsewhere:**
+- HackerOne: https://hackerone.com/ensaarens
+- X (daily technical chain analyses, as N5R1): https://x.com/for_N5R1
+- LinkedIn: https://www.linkedin.com/in/ensaarens
+- ORCID: https://orcid.org/0009-0007-3481-2057
+
+**Project:** Project Lead of YETKİN, a TÜBİTAK 2209-A funded disaster-response volunteer integration platform running in production: https://yetkin.ensaar.codes
+
+**Verification:** Identity-verified participant in Anthropic's Cyber Verification Program (Defense Access).
+
+**Contact:** ensarresearcher@gmail.com
